@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+<title>Test title</title>
 </head>
 <body>
 	<div>
@@ -15,4 +15,3 @@
 
 
 </body>
-</html>
