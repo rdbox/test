@@ -7,9 +7,9 @@
 <body>
 	<div>
 		<div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, natus.</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, hic.</div>
-			<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, necessitatibus.</div>
+			<div id="main">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, natus.</div>
+			<div id="main">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, hic.</div>
+			<div id="main">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, necessitatibus.</div>
 		</div>
 	</div>
 
